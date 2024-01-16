@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"kp.company.endpoints","l":"DepartmentEndpointsTests"},{"p":"kp.company.endpoints","l":"EmployeeEndpointsTests"},{"p":"kp","l":"TestConstants"},{"p":"kp.company","l":"TestDatasetLoader"}];updateSearchResults();
